@@ -1,0 +1,37 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #eaf0f8;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.container {
+    background: white;
+    width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px #bbb;
+}
+
+h1 {
+    color: #2457a7;
+}
+
+input, textarea {
+    width: 95%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button, .btn {
+    background: #2457a7;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+}
